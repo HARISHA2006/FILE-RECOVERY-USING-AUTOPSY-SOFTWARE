@@ -1,5 +1,5 @@
-# FILE-RECOVERY-USING-AUTOPSY-SOFTWARE
-
+## NAME : HARISHA S
+## REG.NO : 212223040063
 ## AIM
 To use **Autopsy Digital Forensics Tool** to retrieve deleted files from a disk image.
 
@@ -74,18 +74,15 @@ Navigate to the "Deleted Files" section in Autopsy and examine or recover the de
 Recovered Deleted File List and Details
 
 
-# Delete the Image on the Drive E **
-<img width="1918" height="1079" alt="Screenshot 2025-08-26 190030" src="https://github.com/user-attachments/assets/5aeccde8-7ec8-40b8-a6c6-be2587dbd46f" />
+<img width="1912" height="1078" alt="Screenshot 2025-08-21 213218" src="https://github.com/user-attachments/assets/01676fc6-8708-43d5-adb4-e403c90aa08b" />
 
-# Click Extract File on the Autopsy To recover the Deleted File on the Drive E 
+<img width="1918" height="1078" alt="Screenshot 2025-08-21 213235" src="https://github.com/user-attachments/assets/d5253e06-05bb-46b7-9917-608feb1489ba" />
 
-<img width="1873" height="1067" alt="Screenshot 2025-08-26 192728" src="https://github.com/user-attachments/assets/35b094d4-f445-42db-be97-314c8fbf403f" />
+<img width="1908" height="1077" alt="Screenshot 2025-08-21 224217" src="https://github.com/user-attachments/assets/0f6340e8-6b83-4300-b96d-1784a56021cb" />
 
+<img width="1919" height="1079" alt="Screenshot 2025-08-21 224756" src="https://github.com/user-attachments/assets/4287d85b-f48d-4445-998a-e80e6e836d8d" />
 
-# The Deleted Picture Is Successfully Recoverd On the Export Folder 
-
-<img width="1919" height="1079" alt="Screenshot 2025-08-22 120312" src="https://github.com/user-attachments/assets/b274a7cd-c211-4656-b582-745795754891" />
-
+<img width="1916" height="1079" alt="Screenshot 2025-08-21 224846" src="https://github.com/user-attachments/assets/9711933d-9f59-4299-a6df-4308c98c1561" />
 
 
 ## RESULT:
